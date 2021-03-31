@@ -1,4 +1,4 @@
-Propagation d'une épidémie dans une population avec une structure de graphe
+#Propagation d'une épidémie dans une population avec une structure de graphe
 
 Par Marc NGUYEN et Thomas LARDY.
 
